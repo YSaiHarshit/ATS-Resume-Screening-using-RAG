@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+pypdf
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+python-dotenv
